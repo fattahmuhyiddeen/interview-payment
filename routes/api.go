@@ -1,7 +1,7 @@
 package routes
 
 import (
-	controller "../controller"
+	controller "github.com/fattahmuhyiddeen/interview-payment/controller"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 )

@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"./routes"
-	"./config"
+	"github.com/fattahmuhyiddeen/interview-payment/routes"
+	"github.com/fattahmuhyiddeen/interview-payment/config"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 )
