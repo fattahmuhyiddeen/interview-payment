@@ -1,4 +1,4 @@
-module interview-payment
+module github.com/fattahmuhyiddeen/interview-payment
 
 go 1.12
 
